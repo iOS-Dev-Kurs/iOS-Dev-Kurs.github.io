@@ -1,1 +1,37 @@
 @import "../bower_components/bootstrap/less/bootstrap.less";
+@import "variables.less";
+
+
+/* Style */
+
+a {
+	color: @color-brand;
+	&:hover, &:focus, &:active {
+		color: @color-text;
+	}
+}
+
+p {
+	text-align: justify;
+}
+
+
+/* Structure */
+
+.logo {
+	float: left;
+	@logo-padding: 7px;
+	padding: @logo-padding 0 @logo-padding 0;
+	& img {
+		height: (@navbar-height)-(@logo-padding)*2;
+	}
+	margin-right: 15px;
+}
+
+#footer {
+	#copyright {
+		margin: 15px 0 15px 0;
+		font-size: 0.85em;
+		text-align: center;
+	}
+}
