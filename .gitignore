@@ -1,0 +1,8 @@
+# Jekyll Site
+_site/
+
+# CodeKit
+config.codekit
+
+# Mac Noise
+.DS_Store

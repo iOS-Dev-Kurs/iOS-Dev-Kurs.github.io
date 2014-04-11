@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /iOS-Dev-Kurs-Skript # Github deployment
+exclude: [config.codekit, less]
