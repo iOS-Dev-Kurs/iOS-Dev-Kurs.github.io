@@ -1,3 +1,4 @@
 markdown: redcarpet
 baseurl:  # Github deployment
-exclude: [config.codekit, less]
+exclude: [Resources, config.codekit, less]
+debug: false
