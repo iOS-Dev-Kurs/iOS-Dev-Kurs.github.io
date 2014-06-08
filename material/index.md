@@ -26,11 +26,14 @@ Damit ich nicht erst zum Ende des Semesters erfahre, welche Themen euch interess
 
 ### Vorlesungsthemen
 
-1. Grundlagen der Programmierung
-2. Grundlagen der Objektorientierten Programmierung in Objective-C
-3. Erstes User Interface
-4. Versionskontrolle mit Git
-5. iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
-6. Auto Layout
-7. View Controller Hierarchie
-8. ...
+1. *14.4.2014* Grundlagen der Programmierung
+2. *28.4.2014* Grundlagen der Objektorientierten Programmierung in Objective-C
+3. *5.5.2014* Erstes User Interface
+4. *12.5.2014* Versionskontrolle mit Git
+5. *19.5.2014* iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
+6. *26.5.2014* Auto Layout
+7. *2.6.2014* View Controller Hierarchie
+8. *23.6.2014* View Controller in UIKit (und ein bisschen [Swift](https://developer.apple.com/swift/))
+9. *30.6.2014* Data Persistance, Notifications & Seasonizer Part 1
+10. *7.7.2014* Seasonizer Part 2
+11. *14.7.2014* Design & Konzeption von iOS Apps (und ein bisschen Business)
