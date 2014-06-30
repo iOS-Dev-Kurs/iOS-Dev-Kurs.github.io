@@ -11,16 +11,18 @@ Dieser Kurs kann alleine oder als Ergänzung zu einem Programmierkurs gehört we
 
 ## Organisation
 
-- **Termin: Montags, 16:15 bis 17:45** mit anschließenden Übungen. Erste Vorlesung am **14.4.2014**.
+**Nächste Veranstaltung des Kurses vorraussichtlich im Sommersemester 2015.**
+
+- **Termin: Montags, 16:15 bis 17:45** mit anschließenden Übungen.
 - **Ort:** Mac Pool des URZ, INF 293, Raum 214 (Medienzentrum)
 - **Dozenten:** Nils Fischer (Student BSc Physik) [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de), Prof. Dr. Peter Fischer (ZITI) [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de)
 - **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2014 ist beendet)*
 - **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik 2 LP (ÜK) vergeben.
-- **Vorkenntnisse:** Programmierkenntnisse hilfreich aber nicht erforderlich
+- **Vorkenntnisse:** Programmierkenntnisse hilfreich aber nicht unbedingt erforderlich
 - **Hardware Vorraussetzungen:**
-	Um die Übungen durchführen zu können, benötigen Sie einen Intel-Mac, auf dem die (kostenlose) 
-	Developersoftware installiert ist.
-	Wenn Sie keinen Intel-Mac besitzen, können Sie die Rechner im Mac-Pool (Medienzentrum) des URZ benutzen, auf denen das iOS SDK (Software Development Kit) installiert ist.
+	Um die Übungen durchführen zu können, benötigen Sie einen Mac, auf dem die (kostenlose) 
+	Entwicklungsumgebung [Xcode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12) installiert ist.
+	Wenn Sie keinen Mac besitzen, können Sie die Rechner im Mac-Pool (Medienzentrum) des URZ benutzen, auf denen das iOS SDK (Software Development Kit) installiert ist.
 	Alle Programme können auf dem iPhone-Simulator getestet werden.
 	Wenn Sie ein iOS Gerät (iPhone/iPad/iPod Touch) besitzen, können Sie die Apps auch auf dem Gerät testen. In diesem Fall ist ein Anmeldeprozess bei Apple notwendig. Ein Anleitung dazu finden Sie in den Kursmaterialien.
 
@@ -33,7 +35,7 @@ Programmiersprache Objective-C und im Verlauf des Kurses viele wichtige und allg
 der Programmstrukturierung kennen. Was man lernt, lässt sich ohne Probleme auf andere objektorientierte 
 Programmiersprachen, andere Programmierumgebungen und andere Zielsysteme übertragen.
 
-Wir beginnen mit der Verwendung der modernen Programmierumgebung Xcode und einer Einführung in die Grundlagen der objektorientierten Programmierung und sind schnell in der Lage, unsere erste iPhone App auf dem Simulator und auf eigenen iOS Geräten laufen zu lassen. Anschließend lernen wir Möglichkeiten kennen, unsere Apps strukturiert aufzubauen und unseren Source-Code systematisch zu verwalten (Versions-Kontrolle).
+Wir beginnen mit der Verwendung der modernen Programmierumgebung Xcode und einer Einführung in die Grundlagen der objektorientierten Programmierung in Objective-C und sind schnell in der Lage, unsere erste iPhone App auf dem Simulator und auf eigenen iOS Geräten laufen zu lassen. Anschließend lernen wir Möglichkeiten kennen, unsere Apps strukturiert aufzubauen und unseren Source-Code systematisch zu verwalten (Versions-Kontrolle).
 
 Im Unterschied zu Scriptsprachen wie Python oder Ruby werden Programme im Allgemeinen nicht einfach gestartet und dann abgearbeitet, sondern durch Benutzereingaben wie Touchscreen-Gesten oder gerätspezifische Events gesteuert. Um Programme zu entwickeln, die die Möglichkeiten der jeweiligen Plattform nutzen können, machen wir uns mit den API's (Application Programming Interfaces) des iOS SDK's vertraut und lernen, auf verschiedene Funktionen der iOS Geräte zuzugreifen.
 
@@ -56,4 +58,4 @@ An jede Vorlesung schließt sich direkt der Übungsteil an. Jede Wochen wird ein
 
 ## Zusammenhang zum C++ - Kurs in der Physik
 
-Der C++ - Blockkurs der Physik bietet einen Einstieg in die Sprache C++ und in erste Konzepte der Objektorientierten Programmierung.  Man kann ihn zusätzlich vorher oder nachher hören, er ist aber keine Voraussetzung zum Verständnis dieses Kurses.
+Der C++ - Blockkurs der Physik bietet einen Einstieg in die Sprache C++ und in erste Konzepte der Objektorientierten Programmierung. Man kann ihn zusätzlich vorher oder nachher hören, er ist aber keine Voraussetzung zum Verständnis dieses Kurses.
