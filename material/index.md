@@ -16,14 +16,6 @@ Die folgenden Links verweisen jeweils auf die aktuelle Version der Dokumente:
 
 Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-Dev-Kurs/Skript](https://github.com/iOS-Dev-Kurs/Skript)
 
-
-### Midterm Evaluation
-
-Damit ich nicht erst zum Ende des Semesters erfahre, welche Themen euch interessieren und was ich an der Vorlesung verbessern kann, bitte ich euch, die Midterm Evaluation auszufüllen:
-
-- [Midterm Evaluation](https://docs.google.com/forms/d/19f4ZIq96JGQa7p9x9FwwK9zqu9dMtpnprZjjVQj5lc8/viewform?usp=send_form)
-
-
 ### Vorlesungsthemen
 
 1. *14.4.2014* Grundlagen der Programmierung
