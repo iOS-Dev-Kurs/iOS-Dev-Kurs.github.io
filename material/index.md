@@ -5,7 +5,7 @@ title: Kursmaterialien
 
 ## Sommersemester 2014
 
-Im Verlauf des Semesters wird das vorlesungsbegleitende **Skript** hier kapitelweise zur Verfügung gestellt. Das Skript ist kein Tutorial, sondern ist sehr allgemein gehalten und erläutert die Grundlagen der Kursthemen. Im ergänzenden **App Katalog** findet ihr hingegen Schritt-für-Schritt Anleitungen, sowie die wöchentlichen Übungsaufgaben.
+Im Verlauf des Semesters wird das vorlesungsbegleitende **Skript** hier kapitelweise zur Verfügung gestellt. Das Skript ist kein Tutorial, sondern ist sehr allgemein gehalten und erläutert die Grundlagen der Kursthemen. Im ergänzenden **App Katalog** findet ihr hingegen Schritt-für-Schritt Anleitungen, sowie die wöchentlichen Übungsaufgaben.
 
 Die folgenden Links verweisen jeweils auf die aktuelle Version der Dokumente:
 
@@ -15,6 +15,8 @@ Die folgenden Links verweisen jeweils auf die aktuelle Version der Dokumente:
 - [Beispiellösungen der Übungsaufgaben](https://github.com/knly/iOS-Dev-Kurs-Skript/blob/master/dist/current/ios_dev_kurs_loesungen.pdf?raw=true)
 
 Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-Dev-Kurs/Skript](https://github.com/iOS-Dev-Kurs/Skript)
+
+Einige Beispielbilder für die Seasonizer App findet ihr hier: [seasonizer_img.zip](seasonizer_img.zip)
 
 ### Vorlesungsthemen
 

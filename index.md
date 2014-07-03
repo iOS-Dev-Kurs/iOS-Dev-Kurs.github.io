@@ -3,6 +3,8 @@ layout: default
 title: Allgemeine Informationen
 ---
 
+**Nächste Veranstaltung des Kurses vorraussichtlich im Sommersemester 2015.**
+
 Der Kurs *Softwareentwicklung für iOS mit Objective-C und Xcode* gibt eine Einführung in die moderne Programmentwicklung mit einer Integrierten Entwicklungsumgebung (IDE), die objektorientierte Programmiersprache Objective-C und die Programmierung von Benutzeroberflächen am Beispiel der iOS Plattform.
 
 Im Rahmen der Programmierung von Apps für iOS Geräte werden wichtige und allgemeingültige Konzepte der Programmstrukturierung behandelt.
@@ -11,11 +13,9 @@ Dieser Kurs kann alleine oder als Ergänzung zu einem Programmierkurs gehört we
 
 ## Organisation
 
-**Nächste Veranstaltung des Kurses vorraussichtlich im Sommersemester 2015.**
-
 - **Termin: Montags, 16:15 bis 17:45** mit anschließenden Übungen.
 - **Ort:** Mac Pool des URZ, INF 293, Raum 214 (Medienzentrum)
-- **Dozenten:** Nils Fischer (Student BSc Physik) [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de), Prof. Dr. Peter Fischer (ZITI) [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de)
+- **Dozenten:** Nils Fischer (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
 - **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2014 ist beendet)*
 - **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik 2 LP (ÜK) vergeben.
 - **Vorkenntnisse:** Programmierkenntnisse hilfreich aber nicht unbedingt erforderlich
