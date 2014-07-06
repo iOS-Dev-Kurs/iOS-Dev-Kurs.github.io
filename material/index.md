@@ -29,5 +29,5 @@ Einige Beispielbilder für die Seasonizer App findet ihr hier: [seasonizer_img.z
 7. *2.6.2014* View Controller Hierarchie
 8. *23.6.2014* View Controller in UIKit (und ein bisschen [Swift](https://developer.apple.com/swift/))
 9. *30.6.2014* Data Persistance, Notifications & Seasonizer Part 1
-10. *7.7.2014* Seasonizer Part 2
+10. *7.7.2014* Unit Tests, Open Source & Seasonizer Part 2
 11. *14.7.2014* Design & Konzeption von iOS Apps (und ein bisschen Business)
