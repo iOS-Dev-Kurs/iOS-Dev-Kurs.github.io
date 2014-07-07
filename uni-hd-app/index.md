@@ -1,12 +1,21 @@
 ---
 layout: default
-title: Uni Heidelberg / Fakultät Physik App
+title: Universität Heidelberg / Fakultät Physik App
 ---
 
-Im Auftrag der Uni und der Fakultät Physik schreiben wir eine iOS App für euch als Studenten der Uni Heidelberg, und ihr habt die Chance eure Ideen und Wünsche einzubringen!
+Aufbauend auf der Vorlesung [*Softwareentwicklung für iOS*](http://ios-dev-kurs.github.io/) schreiben wir eine iOS App für die Universität Heidelberg. Die App ist zunächst hauptsächlich auf die Fakultät Physik bezogen, da wir selbst Studenten der Physik sind. Später werden wir den Umfang auf andere Bereiche der Uni ausweiten.
 
-Dieses Projekt im Sommersemester 2014 baut auf der Vorlesung *Softwareentwicklung für iOS mit Objective-C und Xcode* auf und ist zunächst auf die Fakultät Physik bezogen. Später werden wir den Umfang der App auf andere Bereiche der Uni ausweiten.
 
-Helft uns, die App so zu gestalten, dass sie für euch im Heidelberger Unialltag unentbehrlich wird!
+## Kontakt
 
-**[Umfrage zur Uni HD / Fakultät Physik App](https://docs.google.com/forms/d/176iTj_wvbQSdUrrm3pM-ZQH7coY68XsJZMcTcZcEMIk/viewform)**
+Anfragen zur Integration von News und/oder Veranstaltungen Ihrer Institution bei der Projektleitung.
+
+- Projektleitung: **Nils Fischer** (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de))
+- Organisation: **Prof. Dr. Peter Fischer** (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
+
+
+## Mitmachen
+
+Für unser Projekt suchen wir noch Studenten der Universität Heidelberg auf HiWi-Basis oder für ein Projektpraktikum im Bereich der **Serverentwicklung** (z.B. mit Node.js).
+
+Meldet euch bei Interesse mit einer kurzen Beschreibung eurer Fähigkeiten und Erfahrung bei der Projektleitung.
