@@ -3,9 +3,9 @@ layout: default
 title: Allgemeine Informationen
 ---
 
-**Nächste Veranstaltung des Kurses vorraussichtlich im Sommersemester 2015.**
+**Nächste Veranstaltung des Kurses vorraussichtlich im Sommersemester 2015. Im Wintersemester 2014/15 findet stattdessen die Vorlesung _[Softwareentwicklung für Windows Phone](http://sus.ziti.uni-heidelberg.de/Lehre/WinPhone1415/?lang=de)_ statt.**
 
-Der Kurs *Softwareentwicklung für iOS mit Objective-C und Xcode* gibt eine Einführung in die moderne Programmentwicklung mit einer Integrierten Entwicklungsumgebung (IDE), die objektorientierte Programmiersprache Objective-C und die Programmierung von Benutzeroberflächen am Beispiel der iOS Plattform.
+Der Kurs *Softwareentwicklung für iOS* gibt eine Einführung in die moderne Programmentwicklung mit einer Integrierten Entwicklungsumgebung (IDE), die objektorientierte Programmiersprache <s>Objective-C</s> Swift *(ab SS 2015)* und die Programmierung von Benutzeroberflächen am Beispiel der iOS Plattform.
 
 Im Rahmen der Programmierung von Apps für iOS Geräte werden wichtige und allgemeingültige Konzepte der Programmstrukturierung behandelt.
 
