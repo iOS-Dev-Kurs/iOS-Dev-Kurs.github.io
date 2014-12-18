@@ -16,7 +16,7 @@ Dieser Kurs kann alleine oder als Ergänzung zu einem Programmierkurs gehört we
 - **Termin: Montags, 16:15 bis 17:45** mit anschließenden Übungen.
 - **Ort:** Mac Pool des URZ, INF 293, Raum 214 (Medienzentrum)
 - **Dozenten:** Nils Fischer (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
-- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2014 ist beendet)*
+- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2015 ab 1.3.2015 möglich sein)*
 - **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik 2 LP (ÜK) vergeben.
 - **Vorkenntnisse:** Programmierkenntnisse hilfreich aber nicht unbedingt erforderlich
 - **Hardware Vorraussetzungen:**
@@ -37,7 +37,7 @@ Programmiersprachen, andere Programmierumgebungen und andere Zielsysteme übertr
 
 Wir beginnen mit der Verwendung der modernen Programmierumgebung Xcode und einer Einführung in die Grundlagen der objektorientierten Programmierung in Objective-C und sind schnell in der Lage, unsere erste iPhone App auf dem Simulator und auf eigenen iOS Geräten laufen zu lassen. Anschließend lernen wir Möglichkeiten kennen, unsere Apps strukturiert aufzubauen und unseren Source-Code systematisch zu verwalten (Versions-Kontrolle).
 
-Im Unterschied zu Scriptsprachen wie Python oder Ruby werden Programme im Allgemeinen nicht einfach gestartet und dann abgearbeitet, sondern durch Benutzereingaben wie Touchscreen-Gesten oder gerätspezifische Events gesteuert. Um Programme zu entwickeln, die die Möglichkeiten der jeweiligen Plattform nutzen können, machen wir uns mit den API's (Application Programming Interfaces) des iOS SDK's vertraut und lernen, auf verschiedene Funktionen der iOS Geräte zuzugreifen.
+Im Unterschied zu Skriptsprachen wie Python oder Ruby werden Programme im Allgemeinen nicht einfach gestartet und dann abgearbeitet, sondern durch Benutzereingaben wie Touchscreen-Gesten oder gerätspezifische Events gesteuert. Um Programme zu entwickeln, die die Möglichkeiten der jeweiligen Plattform nutzen können, machen wir uns mit den API's (Application Programming Interfaces) des iOS SDK's vertraut und lernen, auf verschiedene Funktionen der iOS Geräte zuzugreifen.
 
 Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht in andere Entwicklungsumgebungen und andere Programmiersprachen (z.B. C++) einzuarbeiten, sowie einfache Apps für iOS Geräte und Macs zu schreiben.
 
