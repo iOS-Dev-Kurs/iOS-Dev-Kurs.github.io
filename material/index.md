@@ -9,10 +9,9 @@ Im Verlauf des Semesters wird das vorlesungsbegleitende **Skript** hier kapitelw
 
 Die folgenden Links verweisen jeweils auf die aktuelle Version der Dokumente:
 
-
-- [Skript](https://github.com/knly/iOS-Dev-Kurs-Skript/blob/master/dist/current/ios_dev_kurs_skript.pdf?raw=true)
-- [App Katalog](https://github.com/knly/iOS-Dev-Kurs-Skript/blob/master/dist/current/ios_dev_kurs_app_katalog.pdf?raw=true)
-- [Beispiellösungen der Übungsaufgaben](https://github.com/knly/iOS-Dev-Kurs-Skript/blob/master/dist/current/ios_dev_kurs_loesungen.pdf?raw=true)
+- [Skript](https://github.com/iOS-Dev-Kurs/Skript/blob/master/dist/ios_dev_kurs_skript.pdf?raw=true)
+- [App Katalog](https://github.com/iOS-Dev-Kurs/Skript/blob/master/dist/ios_dev_kurs_app_katalog.pdf?raw=true)
+- [Beispiellösungen der Übungsaufgaben](https://github.com/iOS-Dev-Kurs/Skript/blob/master/dist/ios_dev_kurs_loesungen.pdf?raw=true)
 
 Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-Dev-Kurs/Skript](https://github.com/iOS-Dev-Kurs/Skript)
 
