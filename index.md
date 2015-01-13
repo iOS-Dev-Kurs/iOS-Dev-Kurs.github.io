@@ -16,7 +16,7 @@ Dieser Kurs kann alleine oder als Ergänzung zu einem Programmierkurs gehört we
 - **Termin: Montags, 16:15 bis 17:45** mit anschließenden Übungen.
 - **Ort:** <s>Mac Pool des URZ, INF 293, Raum 214 (Medienzentrum)</s> *(wird noch bekannt gegeben)*
 - **Dozenten:** Nils Fischer (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
-- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2015 wird ab 1.3.2015 möglich sein)*
+- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2015 wird am 1.3.2015 freigeschaltet)*
 - **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik 2 ECTS Punkte (ÜK) vergeben.
 - **Vorkenntnisse:** Programmierkenntnisse hilfreich aber nicht unbedingt erforderlich
 - **Hardware Vorraussetzungen:**
@@ -37,6 +37,8 @@ Wir beginnen mit der Verwendung der modernen Programmierumgebung *Xcode* und ein
 Im Unterschied zu Skripten in Sprachen wie Python oder Ruby werden Programme im Allgemeinen nicht einfach gestartet und dann abgearbeitet, sondern durch Benutzereingaben wie Touchscreen-Gesten oder gerätspezifische Events gesteuert. Um Programme zu entwickeln, die die Möglichkeiten der jeweiligen Plattform nutzen können, machen wir uns mit den APIs (Application Programming Interfaces) des iOS SDK's vertraut und lernen, auf verschiedene Funktionen der iOS Geräte zuzugreifen.
 
 Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht in andere Entwicklungsumgebungen und andere Programmiersprachen wie C++ oder Python einzuarbeiten, sowie einfache Apps für iOS Geräte und Macs zu schreiben.
+
+![storyboard]({{ site.url }}/img/content/storyboard.png)
 
 ## Themen
 
