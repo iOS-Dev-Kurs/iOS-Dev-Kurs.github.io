@@ -3,7 +3,7 @@ layout: default
 title: Allgemeine Informationen
 ---
 
-**Nächste Veranstaltung des Kurses vorraussichtlich im Sommersemester 2015. Im Wintersemester 2014/15 findet stattdessen die Vorlesung _[Softwareentwicklung für Windows Phone](http://sus.ziti.uni-heidelberg.de/Lehre/WinPhone1415/?lang=de)_ statt.**
+**Nächste Veranstaltung des Kurses im Sommersemester 2015. Im Wintersemester 2014/15 findet stattdessen die Vorlesung _[Softwareentwicklung für Windows Phone](http://sus.ziti.uni-heidelberg.de/Lehre/WinPhone1415/?lang=de)_ statt.**
 
 Der Kurs *Softwareentwicklung für iOS* gibt eine Einführung in die moderne Programmentwicklung mit einer Integrierten Entwicklungsumgebung (IDE), die objektorientierte Programmiersprache <s>Objective-C</s> Swift *(ab SS 2015)* und die Programmierung von Benutzeroberflächen am Beispiel der iOS Plattform.
 
@@ -14,10 +14,10 @@ Dieser Kurs kann alleine oder als Ergänzung zu einem Programmierkurs gehört we
 ## Organisation
 
 - **Termin: Montags, 16:15 bis 17:45** mit anschließenden Übungen.
-- **Ort:** Mac Pool des URZ, INF 293, Raum 214 (Medienzentrum)
+- **Ort:** <s>Mac Pool des URZ, INF 293, Raum 214 (Medienzentrum)</s> *(wird noch bekannt gegeben)*
 - **Dozenten:** Nils Fischer (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
-- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2015 ab 1.3.2015 möglich sein)*
-- **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik 2 LP (ÜK) vergeben.
+- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2015 wird ab 1.3.2015 möglich sein)*
+- **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik 2 ECTS Punkte (ÜK) vergeben.
 - **Vorkenntnisse:** Programmierkenntnisse hilfreich aber nicht unbedingt erforderlich
 - **Hardware Vorraussetzungen:**
 	Um die Übungen durchführen zu können, benötigen Sie einen Mac, auf dem die (kostenlose) 
@@ -30,21 +30,18 @@ Dieser Kurs kann alleine oder als Ergänzung zu einem Programmierkurs gehört we
 
 Diese Veranstaltung ist für alle geeignet, die nicht nur eine Programmiersprache, sondern auch eine moderne Vorgehensweise bei der Programmierung lernen wollen. Die iOS Plattform bietet sich hier als spannende und vielseitige Möglichkeit an, eigene Programme zu entwickeln.
 
-Wir lernen anhand einiger kleinerer bis komplexer Apps zunächst die auf C basierende objektorientierte 
-Programmiersprache Objective-C und im Verlauf des Kurses viele wichtige und allgemeingültige Konzepte 
-der Programmstrukturierung kennen. Was man lernt, lässt sich ohne Probleme auf andere objektorientierte 
-Programmiersprachen, andere Programmierumgebungen und andere Zielsysteme übertragen.
+Wir lernen anhand einiger kleinerer bis komplexer Apps zunächst <s>die auf C basierende objektorientierte Programmiersprache *Objective-C*</s> die moderne, objektorientierte Programmiersprache *Swift* und im Verlauf des Kurses viele wichtige und allgemeingültige Konzepte der Programmstrukturierung kennen. Das Gelernte lässt sich ohne Probleme auf andere objektorientierte Programmiersprachen wie C++ oder Python, andere Programmierumgebungen und andere Zielsysteme übertragen.
 
-Wir beginnen mit der Verwendung der modernen Programmierumgebung Xcode und einer Einführung in die Grundlagen der objektorientierten Programmierung in Objective-C und sind schnell in der Lage, unsere erste iPhone App auf dem Simulator und auf eigenen iOS Geräten laufen zu lassen. Anschließend lernen wir Möglichkeiten kennen, unsere Apps strukturiert aufzubauen und unseren Source-Code systematisch zu verwalten (Versions-Kontrolle).
+Wir beginnen mit der Verwendung der modernen Programmierumgebung *Xcode* und einer Einführung in die Grundlagen der objektorientierten Programmierung in <s>Objective-C</s> Swift und sind schnell in der Lage, unsere erste iPhone App auf dem Simulator und auf eigenen iOS Geräten laufen zu lassen. Anschließend lernen wir Möglichkeiten kennen, unsere Apps strukturiert aufzubauen und unseren Code systematisch zu verwalten (Versions-Kontrolle).
 
-Im Unterschied zu Skriptsprachen wie Python oder Ruby werden Programme im Allgemeinen nicht einfach gestartet und dann abgearbeitet, sondern durch Benutzereingaben wie Touchscreen-Gesten oder gerätspezifische Events gesteuert. Um Programme zu entwickeln, die die Möglichkeiten der jeweiligen Plattform nutzen können, machen wir uns mit den API's (Application Programming Interfaces) des iOS SDK's vertraut und lernen, auf verschiedene Funktionen der iOS Geräte zuzugreifen.
+Im Unterschied zu Skripten in Sprachen wie Python oder Ruby werden Programme im Allgemeinen nicht einfach gestartet und dann abgearbeitet, sondern durch Benutzereingaben wie Touchscreen-Gesten oder gerätspezifische Events gesteuert. Um Programme zu entwickeln, die die Möglichkeiten der jeweiligen Plattform nutzen können, machen wir uns mit den APIs (Application Programming Interfaces) des iOS SDK's vertraut und lernen, auf verschiedene Funktionen der iOS Geräte zuzugreifen.
 
-Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht in andere Entwicklungsumgebungen und andere Programmiersprachen (z.B. C++) einzuarbeiten, sowie einfache Apps für iOS Geräte und Macs zu schreiben.
+Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht in andere Entwicklungsumgebungen und andere Programmiersprachen wie C++ oder Python einzuarbeiten, sowie einfache Apps für iOS Geräte und Macs zu schreiben.
 
 ## Themen
 
 - Einführung in die Benutzung der IDE Xcode
-- Objektorientierte Programmierung in Objective-C
+- Objektorientierte Programmierung in <s>Objective-C</s> Swift
 - Architektur von iOS Apps
 - Fundamentale Konzepte der Softwarestrukturierung
 - Kommunikationsmechanismen & Informationsweitergabe innerhalb eines Programms
