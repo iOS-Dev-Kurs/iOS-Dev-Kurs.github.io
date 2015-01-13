@@ -38,8 +38,6 @@ Im Unterschied zu Skripten in Sprachen wie Python oder Ruby werden Programme im 
 
 Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht in andere Entwicklungsumgebungen und andere Programmiersprachen wie C++ oder Python einzuarbeiten, sowie einfache Apps für iOS Geräte und Macs zu schreiben.
 
-![storyboard]({{ site.url }}/img/content/storyboard.png)
-
 ## Themen
 
 - Einführung in die Benutzung der IDE Xcode
