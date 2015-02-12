@@ -5,6 +5,7 @@ title: Universität Heidelberg / Fakultät Physik App
 
 Wir schreiben eine iOS App für die Universität Heidelberg. Die App ist zunächst hauptsächlich auf die Fakultät Physik bezogen, da wir selbst Studenten der Physik sind. Später werden wir den Umfang auf andere Bereiche der Uni ausweiten.
 
+Die App liegt momentan in einer Beta-Version vor und wird auf Anfrage zum Testen an Interessenten verteilt.
 
 ## Kontakt
 
