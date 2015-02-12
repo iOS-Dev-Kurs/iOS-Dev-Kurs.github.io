@@ -3,9 +3,9 @@ layout: default
 title: Allgemeine Informationen
 ---
 
-**Nächste Veranstaltung der Vorlesung im Sommersemester 2015. Anmeldung erforderlich (s.u.)!**
+**Nächste Veranstaltung der Vorlesung im Sommersemester 2015. Anmeldung erforderlich!**
 
-Die Vorlesung *Softwareentwicklung für iOS* gibt eine Einführung in die moderne Programmentwicklung mit einer Integrierten Entwicklungsumgebung (IDE), die objektorientierte Programmiersprache <s>Objective-C</s> Swift *(ab SS 2015)* und die Programmierung von Benutzeroberflächen am Beispiel der iOS Plattform.
+Die Vorlesung *Softwareentwicklung für iOS* gibt eine Einführung in die moderne Programmentwicklung mit einer Integrierten Entwicklungsumgebung (IDE), die objektorientierte Programmiersprache *Swift* und die Programmierung von Benutzeroberflächen am Beispiel der iOS Plattform.
 
 Im Rahmen der Programmierung von Apps für iOS Geräte werden wichtige und allgemeingültige Konzepte der Programmstrukturierung behandelt.
 
