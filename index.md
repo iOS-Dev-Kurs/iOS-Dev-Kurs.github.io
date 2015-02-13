@@ -14,7 +14,7 @@ Diese Vorlesung kann alleine oder zusätzlich zu einem Programmierkurs gehört w
 ## Organisation
 
 - **Termin:** **Montags, 16:15 bis 17:45** ab **13.4.2015**
-- **Ort:** <s>Mac Pool des URZ, INF 293, Raum 214 (Medienzentrum)</s> *(wird noch bekannt gegeben)*
+- **Ort:** Mac & PC Pool des URZ, INF 293, Raum 118
 - **Dozenten:** Nils Fischer (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
 - **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **<s>Anmeldung unter diesem Link</s>** erforderlich. *(Die Anmeldung für den Kurs im Sommersemester 2015 wird am 1.3.2015 freigeschaltet)*
 - **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik **2 ECTS Punkte (ÜK)** vergeben. Eine Anrechnung in anderen Studiengängen ist ebenfalls möglich.
