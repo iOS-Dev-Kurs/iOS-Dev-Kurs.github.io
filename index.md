@@ -11,16 +11,24 @@ Im Rahmen der Programmierung von Apps für iOS Geräte werden wichtige und allge
 
 Diese Vorlesung kann alleine oder zusätzlich zu einem Programmierkurs gehört werden. Der Kurs findet wöchentlich während des Semesters im Medienzentrum des URZ statt. Zur Programmierung ist ein Mac erforderlich. Es stehen einige Rechner im URZ zur Verfügung.
 
+
 ## Organisation
 
-- **Termin:** **Montags, 16:15 bis 17:45** ab **13.4.2015**
+- **Vorlesung:** **Montags, 16h c.t. bis 18h** ab **13.4.2015**
+- freiwillige **Übung:** <s>Freitags, 14h ct. bis 16h</s> *(wird noch bekannt gegeben)*
 - **Ort:** Mac & PC Pool des URZ, INF 293, Raum 118
 - **Dozenten:** Nils Fischer (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
 - **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **[Anmeldung unter diesem Link](https://docs.google.com/forms/d/1EhWzohHaER7PS2q1NpeHV1K1ox3nNOrES2baF7f7kXs/viewform?usp=send_form)** erforderlich.
 - **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik **2 ECTS Punkte (ÜK)** vergeben. Eine Anrechnung in anderen Studiengängen ist ebenfalls möglich.
 - **Vorkenntnisse:** Programmierkenntnisse sind hilfreich aber nicht unbedingt erforderlich.
 - **Hardware Vorraussetzungen:**
-	Um die Übungen durchführen zu können, benötigen Sie einen Mac, auf dem die (kostenlose) Entwicklungsumgebung [Xcode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12) installiert ist. Wenn Sie keinen Mac besitzen, können Sie die Rechner im URZ benutzen, auf denen Xcode installiert ist. Alle Programme können auf dem integrierten Simulator getestet werden. Wenn Sie ein eigenes iOS Gerät (iPhone, iPad oder iPod Touch) besitzen, können Sie die Apps auch auf dem Gerät testen. In diesem Fall ist ein Anmeldeprozess bei Apple notwendig. Ein Anleitung dazu finden Sie in den Kursmaterialien.
+
+	Um die Übungen durchführen zu können, wird ein Mac benötigt, auf dem die (kostenlose) Entwicklungsumgebung *[Xcode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12)* installiert ist. Im URZ stehen einige Macs für diejenigen Teilnehmer zur Verfügung, die keinen eigenen Mac mitbringen können. Allen anderen wird jedoch empfohlen, mit ihren eigenen Macs zu arbeiten.
+
+	Alle Apps können auf dem integrierten Simulator getestet werden. Wer ein eigenes iOS Gerät (iPhone, iPad oder iPod Touch) besitzt, kann die Apps auch auf dem Gerät testen.
+	
+	Führt vor Beginn des Kurses ein Softwareupdate auf die aktuellste Version von Mac OS X, Xcode und iOS auf euren Geräten durch.
+	
 
 ## Details zum Kurs
 
@@ -34,6 +42,7 @@ Im Unterschied zu Skripten in Sprachen wie Python oder Ruby werden Programme im 
 
 Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht in andere Entwicklungsumgebungen und andere Programmiersprachen wie C++, C# oder Python einzuarbeiten, sowie einfache Apps für iOS Geräte und Macs zu schreiben.
 
+
 ## Themen
 
 - Einführung in die Benutzung der IDE Xcode
@@ -45,9 +54,15 @@ Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht 
 - Wichtige APIs der iOS Plattform
 - Überblick über Design, Konzeption und Veröffentlichung von iOS Apps
 
+
 ## Übungen
 
-Jede Wochen wird ein neues Übungsblatt ausgegeben und das vorige besprochen. Wir empfehlen, dass Sie versuchen, die Aufgaben in der folgenden Woche eigenständig zu lösen, nur so kommen Sie langfristig mit. Wenn Sie Hilfe benötigen, können Sie diese jederzeit online oder persönlich nach der Vorlesung erhalten. Um die 2 CP für die Teilnahme an dieser Vorlesung zu erhalten, ist eine regelmäßige Teilnahme und Mitarbeit an den Übungen erforderlich.
+Wöchentlich wird es zunächst eine **Vorlesungseinheit** über ein neues Thema geben und zugehörige Übungsaufgaben verteilt. Zu Beginn der folgenden Vorlesung werden deren Lösungen besprochen und vorzugsweise von einem Kursteilnehmer vorgestellt.
+
+Zusätzlich biete ich eine **Übungstunde** ohne Anwesenheitspflicht an. Diese bietet für euch die Möglichkeit, Fragen zu den Übungsaufgaben, zur Vorlesung oder eigenen Projekten zu stellen.
+
+Um langfristig mitzukommen ist es am Wichtigsten, die wöchentlichen Übungen selbst zu bearbeiten und nicht nur zuzuhören und Code von anderen zu kopieren. **Die Kursthemen bauen sehr stark aufeinander auf.** Für die regelmäßige Anwesenheit in der Vorlesung und Mitarbeit in den Übungen werden **2 CP** vergeben. Es wird keine Klausur oder Note geben.
+
 
 ## Weitere Programmierkurse in der Physik
 
