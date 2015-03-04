@@ -15,7 +15,7 @@ Diese Vorlesung kann alleine oder zusätzlich zu einem Programmierkurs gehört w
 ## Organisation
 
 - **Vorlesung:** **Montags, 16h c.t. bis 18h** ab **13.4.2015**
-- freiwillige **Übung:** <s>Freitags, 14h ct. bis 16h</s> *(wird noch bekannt gegeben)*
+- freiwillige **Übung:** *(wird noch bekannt gegeben)*
 - **Ort:** Mac & PC Pool des URZ, INF 293, Raum 118
 - **Dozenten:** Nils Fischer (Student B.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
 - **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **[Anmeldung unter diesem Link](https://docs.google.com/forms/d/1EhWzohHaER7PS2q1NpeHV1K1ox3nNOrES2baF7f7kXs/viewform?usp=send_form)** erforderlich.
