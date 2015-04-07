@@ -20,17 +20,17 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 
 ### Vorlesungsthemen
 
-1. *13.4.2014* Einführung, Grundlagen der Programmierung in Swift
-2. *20.4.2014* Grundlagen der objektorientierten Programmierung in Swift
-3. *27.4.2014* Erstes User Interface
-4. *4.5.2014* Versionskontrolle mit Git
-5. *11.5.2014* iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
-6. *18.5.2014* Auto Layout
-7. *1.6.2014* View Controller Hierarchie
-8. *8.6.2014* View Controller in UIKit
-9. *15.6.2014* Data Persistance, Notifications & Seasonizer Part 1
-10. *22.6.2014* Unit Tests, Open Source & Seasonizer Part 2
-11. *29.6.2014* Design & Konzeption von iOS Apps (und ein bisschen Business)
+1. *13.4.2015* Einführung, Grundlagen der Programmierung in Swift
+2. *20.4.2015* Grundlagen der objektorientierten Programmierung in Swift
+3. *27.4.2015* Erstes User Interface
+4. *4.5.2015* Versionskontrolle mit Git
+5. *11.5.2015* iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
+6. *18.5.2015* Auto Layout
+7. *1.6.2015* View Controller Hierarchie
+8. *8.6.2015* View Controller in UIKit
+9. *15.6.2015* Data Persistance, Notifications & Seasonizer Part 1
+10. *22.6.2015* Unit Tests, Open Source & Seasonizer Part 2
+11. *29.6.2015* Design & Konzeption von iOS Apps (und ein bisschen Business)
 
 Diese Liste wird vorraussichtlich noch verändert und erweitert!
 
