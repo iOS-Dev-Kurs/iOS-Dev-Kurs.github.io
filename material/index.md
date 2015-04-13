@@ -9,15 +9,16 @@ Im Verlauf des Semesters wird das vorlesungsbegleitende **Skript** hier kapitelw
 
 Die folgenden Links verweisen jeweils auf die aktuelle Version der Dokumente:
 
-- [Skript](https://github.com/iOS-Dev-Kurs/Skript/blob/master/dist/ios_dev_kurs_skript.pdf?raw=true)
-- [App Katalog](https://github.com/iOS-Dev-Kurs/Skript/blob/master/dist/ios_dev_kurs_app_katalog.pdf?raw=true)
+- [Skript](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/ios_dev_kurs_skript.pdf)
+- [App Katalog](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/ios_dev_kurs_app_katalog.pdf)
 - [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 
 Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-Dev-Kurs/Skript](https://github.com/iOS-Dev-Kurs/Skript)
 
-### Vorlesungsthemen
+### Vorlesungen
 
 1. *13.4.2015* Einführung, Grundlagen der Programmierung in Swift
+	- [Playground](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/material/01%20-%20Grundlagen%20der%20Programmierung%20in%20Swift.playground.zip)
 2. *20.4.2015* Grundlagen der objektorientierten Programmierung in Swift
 3. *27.4.2015* Erstes User Interface
 4. *4.5.2015* Versionskontrolle mit Git
