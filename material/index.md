@@ -20,7 +20,9 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 1. *13.4.2015* Einführung, Grundlagen der Programmierung in Swift
 	- [Playground](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/material/01%20-%20Grundlagen%20der%20Programmierung%20in%20Swift.playground.zip)
 	- [Übungsaufgaben Abgabe](https://docs.google.com/forms/d/1upxTwhuNBNlbvEmcR7_h6mBDQUchChjQucUoNdie0r4/viewform?usp=send_form)
-2. *20.4.2015* Grundlagen der objektorientierten Programmierung in Swift
+2. *20.4.2015* Objektorientierte Programmierung in Swift
+	- [Playground](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/material/02%20-%20Objektorientierte%20Programmierung%20in%20Swift.playground.zip)
+	- [Code für Übungsaufgabe 4 - Poker](https://gist.github.com/knly/d5d389426560cb502f8e)
 3. *27.4.2015* Erstes User Interface
 4. *4.5.2015* Versionskontrolle mit Git
 5. *11.5.2015* iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
