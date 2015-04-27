@@ -20,10 +20,14 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 1. *13.4.2015* Einführung, Grundlagen der Programmierung in Swift
 	- [Playground](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/material/01%20-%20Grundlagen%20der%20Programmierung%20in%20Swift.playground.zip)
 	- [Übungsaufgaben 1 & 2 Abgabe](https://docs.google.com/forms/d/1upxTwhuNBNlbvEmcR7_h6mBDQUchChjQucUoNdie0r4/viewform?usp=send_form)
+	- [Lösung Übungsaufgabe 1 - Fibonacci](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/01%20-%20Fibonacci.playground.zip)
+	- [Lösung Übungsaufgabe 2 - Primzahlen](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/02%20-%20Primzahlen.playground.zip)
 2. *20.4.2015* Objektorientierte Programmierung in Swift
 	- [Playground](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/material/02%20-%20Objektorientierte%20Programmierung%20in%20Swift.playground.zip)
 	- [Code für Übungsaufgabe 4 - Poker](https://gist.github.com/knly/d5d389426560cb502f8e)
 	- [Übungsaufgaben 3 & 4 Abgabe](https://docs.google.com/forms/d/1aw3xDdcxxWTI5XiMwPR-H_6CKThcGfWGic5WL9GA-jw/viewform?usp=send_form)
+	- [Lösung Übungsaufgabe 3 - Scientists](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/03%20-%20Scientists.playground.zip)
+	- [Lösung Übungsaufgabe 4 - Poker](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/04%20-%20Poker.playground.zip)
 3. *27.4.2015* Erstes User Interface
 	- [HelloWorld App](https://github.com/iOS-Dev-Kurs/HelloWorld)
 	- [Code für Übungsaufgabe 5 - Simple UI](https://gist.github.com/knly/364a002c034785789e26)
