@@ -7,6 +7,8 @@ Wir schreiben eine iOS App für die Universität Heidelberg. Die App ist zunäch
 
 Die App liegt momentan in einer Beta-Version vor und wird auf Anfrage zum Testen an Interessenten verteilt.
 
+- [Anmeldung zur Beta-Testphase](https://docs.google.com/forms/d/1zW6QRgKwEQ5rks8A4rfCZTnUmRVjyF_Ev4Sonlj-d5E/viewform?usp=send_form)
+
 ## Kontakt
 
 - Allgemeine Anfragen: [app@kip.uni-heidelberg.de](mailto:app@kip.uni-heidelberg.de)
