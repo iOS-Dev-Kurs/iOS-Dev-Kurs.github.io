@@ -31,7 +31,12 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 3. *27.4.2015* Erstes User Interface
 	- [HelloWorld App](https://github.com/iOS-Dev-Kurs/HelloWorld)
 	- [Code für Übungsaufgabe 5 - Simple UI](https://gist.github.com/knly/364a002c034785789e26)
+	- [Übungsaufgabe 5 Abgabe](https://docs.google.com/forms/d/1Z6UbZJvfb5DIqYbtFnWbKXxh4LPxUyq4QZs2A4krtDg/viewform?usp=send_form)
+	- [Counter App](https://github.com/iOS-Dev-Kurs/Counter)
+	- [BMI App](https://github.com/iOS-Dev-Kurs/BMI)
+	- [RGB App](https://github.com/iOS-Dev-Kurs/RGB)
 4. *4.5.2015* Versionskontrolle mit Git
+	- [.gitignore](sample.gitignore)
 5. *11.5.2015* iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
 6. *18.5.2015* Auto Layout
 7. *1.6.2015* View Controller Hierarchie
