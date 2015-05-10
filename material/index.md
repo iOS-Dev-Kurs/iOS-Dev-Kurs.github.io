@@ -36,8 +36,11 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 	- [BMI App](https://github.com/iOS-Dev-Kurs/BMI)
 	- [RGB App](https://github.com/iOS-Dev-Kurs/RGB)
 4. *4.5.2015* Versionskontrolle mit Git
-	- [.gitignore](sample.gitignore)
+	- [.gitignore Vorlage](sample.gitignore)
+	- [Chatter App](https://github.com/iOS-Dev-Kurs/chatter)
+	- [Übungsaufgabe 6 Abgabe](https://docs.google.com/forms/d/1a11jf3uLDg39XujbRoBtXWYmIoPHs6h5xQXf3CZeoOk/viewform?usp=send_form)
 5. *11.5.2015* iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
+	- [viewhierarchy_bare Projekt](https://github.com/iOS-Dev-Kurs/viewhierarchy_bare)
 6. *18.5.2015* Auto Layout
 7. *1.6.2015* View Controller Hierarchie
 8. *8.6.2015* View Controller in UIKit
