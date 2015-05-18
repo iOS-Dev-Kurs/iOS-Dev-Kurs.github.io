@@ -42,6 +42,8 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 5. *11.5.2015* iOS App Architektur, Model-View-Controller Konzept und View Hierarchie
 	- [viewhierarchy_bare Projekt](https://github.com/iOS-Dev-Kurs/viewhierarchy_bare)
 	- **[Midterm Evaluation](https://docs.google.com/forms/d/1dkVpHBuU-uOUuxXt-_ZC5nVanZfSU4lxYrdkxBS-mjo/viewform?usp=send_form)**
+	- [Übungsaufgabe 7 Abgabe](https://docs.google.com/forms/d/1QtzvESlfRzdjytxsFIsdM-tTIH13XdYyd60u90SFC7g/viewform?usp=send_form)
+	- [ColorMatch App](https://github.com/iOS-Dev-Kurs/color-match)
 6. *18.5.2015* Auto Layout
 7. *1.6.2015* View Controller Hierarchie
 8. *8.6.2015* View Controller in UIKit
