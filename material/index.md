@@ -45,11 +45,14 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 	- [Übungsaufgabe 7 Abgabe](https://docs.google.com/forms/d/1QtzvESlfRzdjytxsFIsdM-tTIH13XdYyd60u90SFC7g/viewform?usp=send_form)
 	- [ColorMatch App](https://github.com/iOS-Dev-Kurs/color-match)
 6. *18.5.2015* Auto Layout
-7. *1.6.2015* View Controller Hierarchie
-8. *8.6.2015* View Controller in UIKit
-9. *15.6.2015* Data Persistance, Notifications & Seasonizer Part 1
-10. *22.6.2015* Unit Tests, Open Source & Seasonizer Part 2
-11. *29.6.2015* Design & Konzeption von iOS Apps (und ein bisschen Business)
+	- [Lösungsvorschlag für Übungsaufgabe 8](https://gist.github.com/knly/899451dbac24e0f9630e)
+	- [Auto Layout Constraints im Storyboard](https://github.com/iOS-Dev-Kurs/AutoLayout)
+7. <s>*1.6.2015, 8.6.2015*</s> View Controller Hierarchie
+	- **Vorlesungstermine fallen aus!** Im App Katalog ist stattdessen (ab Montag) ein ausführliches Tutorial zu finden, das als Aufgabe *9. Cities* zum 15.6.2015 zu bearbeiten ist.
+8. *15.6.2015* View Controller in UIKit
+9. *22.6.2015* Data Persistance, Notifications & Seasonizer Part 1
+10. *29.6.2015* Unit Tests, Open Source & Seasonizer Part 2
+11. *6.7.2015* Design & Konzeption von iOS Apps (und ein bisschen Business)
 
 Diese Liste wird vorraussichtlich noch verändert und erweitert!
 
