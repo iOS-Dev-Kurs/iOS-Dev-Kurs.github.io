@@ -47,8 +47,10 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 6. *18.5.2015* Auto Layout
 	- [Lösungsvorschlag für Übungsaufgabe 8](https://gist.github.com/knly/899451dbac24e0f9630e)
 	- [Auto Layout Constraints im Storyboard](https://github.com/iOS-Dev-Kurs/AutoLayout)
+	- [Übungsaufgabe 8 Abgabe](https://docs.google.com/forms/d/1yziNFEEeJa2neTYJW5rolTbyeXgj1dv4BfxYLxQx0Y0/viewform?usp=send_form)
 7. <s>*1.6.2015, 8.6.2015*</s> View Controller Hierarchie
 	- **Vorlesungstermine fallen aus!** Im App Katalog ist stattdessen ein ausführliches Tutorial zu finden, das als Aufgabe *9. Cities* zum 15.6.2015 zu bearbeiten ist.
+	- [Übungsaufgabe 9 Abgabe](https://docs.google.com/forms/d/1oIjguo-lTHlBbgWNB05jV4PWqIJeRWR05aZjoSM4Uf4/viewform?usp=send_form)
 8. *15.6.2015* View Controller in UIKit
 9. *22.6.2015* Data Persistance, Notifications & Seasonizer Part 1
 10. *29.6.2015* Unit Tests, Open Source & Seasonizer Part 2
