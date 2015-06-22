@@ -52,7 +52,10 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 	- **Vorlesungstermine fallen aus!** Im App Katalog ist stattdessen ein ausführliches Tutorial zu finden, das als Aufgabe *9. Cities* zum 15.6.2015 zu bearbeiten ist.
 	- [Übungsaufgabe 9 Abgabe](https://docs.google.com/forms/d/1oIjguo-lTHlBbgWNB05jV4PWqIJeRWR05aZjoSM4Uf4/viewform?usp=send_form)
 8. *15.6.2015* View Controller in UIKit
+	- [Übungsaufgabe 10 Abgabe](https://docs.google.com/forms/d/1BRG-YuUm7DkdvUT7HVlLZyGjbRtPVHrCsrjS9hwLZYo/viewform?usp=send_form)
+	- [Cities App](https://github.com/iOS-Dev-Kurs/cities)
 9. *22.6.2015* Data Persistance, Notifications & Seasonizer Part 1
+	- [Seasonizer App](https://github.com/iOS-Dev-Kurs/seasonizer)
 10. *29.6.2015* Unit Tests, Open Source & Seasonizer Part 2
 11. *6.7.2015* Design & Konzeption von iOS Apps (und ein bisschen Business)
 
