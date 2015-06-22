@@ -56,6 +56,7 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 	- [Cities App](https://github.com/iOS-Dev-Kurs/cities)
 9. *22.6.2015* Data Persistance, Notifications & Seasonizer Part 1
 	- [Seasonizer App](https://github.com/iOS-Dev-Kurs/seasonizer)
+	- [Beispielbilder für die Seasonizer App](seasonizer_img.zip)
 10. *29.6.2015* Unit Tests, Open Source & Seasonizer Part 2
 11. *6.7.2015* Design & Konzeption von iOS Apps (und ein bisschen Business)
 
@@ -68,5 +69,3 @@ Unter folgenden Links stehen die Materialen vergangener Semester zur Verfügung.
 - [Letztes vollständiges Skript in Objective-C](https://github.com/iOS-Dev-Kurs/Skript/tree/public/dist)
 - [Sommersemester 2014](https://github.com/iOS-Dev-Kurs/Skript/v2/public/dist)
 - [Wintersemester 2013/14](https://github.com/iOS-Dev-Kurs/Skript/tree/pre-v2/dist/public)
-
-Einige Beispielbilder für die Seasonizer App findet ihr hier: [seasonizer_img.zip](seasonizer_img.zip)
