@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Universität Heidelberg / Fakultät Physik App
+title: iOS Apps der Universität Heidelberg
 ---
 
-Wir schreiben eine iOS App für die Universität Heidelberg. Die App ist zunächst hauptsächlich auf die Fakultät Physik bezogen, da wir selbst Studenten der Physik sind. Später werden wir den Umfang auf andere Bereiche der Uni ausweiten.
+Wir entwickeln iOS Apps für die Universität Heidelberg. Einen Überblick, Diskussionen und die Möglichkeit zum Beta-Testen der Apps finden Sie auf diesem Trello Board:
 
-Die App liegt momentan in einer Beta-Version vor und wird auf Anfrage zum Testen an Interessenten verteilt.
+- [Uni HD Apps](https://trello.com/b/a39bVMws)
 
-- [Anmeldung zur Beta-Testphase](https://docs.google.com/forms/d/1zW6QRgKwEQ5rks8A4rfCZTnUmRVjyF_Ev4Sonlj-d5E/viewform?usp=send_form)
 
 ## Kontakt
 
