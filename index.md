@@ -14,7 +14,7 @@ Diese Vorlesung kann alleine oder zusätzlich zu einem Programmierkurs gehört w
 
 ## Organisation
 
-- **Vorlesung:** **Montags, 16h c.t. bis 18h**, Beginn in der ersten Vorlesungswoche
+- **Vorlesung:** **Montags, 16h c.t. bis 18h**, Beginn **18.4.2016**
 - **Ort:** Mac & PC Pool des URZ, INF 293, Raum 118
 - **Dozenten:** Nils Fischer (Student M.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
 - **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **[Anmeldung unter diesem Link](https://docs.google.com/forms/d/1AOIBd6E42JKvcZQWbhphE4QBmajtoOSqrEFP2HxPEIs/viewform)** erforderlich.
@@ -44,7 +44,6 @@ Am Ende der Veranstaltung sollte jeder Teilnehmer in der Lage sein, sich leicht 
 
 ## Themen
 
-- Einführung in die Benutzung der IDE Xcode
 - Objektorientierte Programmierung in Swift
 - Architektur von iOS Apps
 - Fundamentale Konzepte der Softwarestrukturierung
