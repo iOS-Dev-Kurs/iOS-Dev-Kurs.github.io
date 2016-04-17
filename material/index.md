@@ -7,17 +7,17 @@ title: Kursmaterialien
 
 Im Verlauf des Semesters wird das vorlesungsbegleitende **Skript** hier kapitelweise zur Verfügung gestellt. Das Skript ist kein Tutorial, sondern ist sehr allgemein gehalten und erläutert die Grundlagen der Kursthemen. Im ergänzenden **App Katalog** findet ihr hingegen Schritt-für-Schritt Anleitungen, sowie die wöchentlichen Übungsaufgaben. Das Buch **The Swift Programming Language** von Apple enthält sowohl eine Übersicht, als auch eine umfassende Dokumentation über die Programmiersprache Swift und wird uns als Referenz dienen.
 
-- Skript
-- App Katalog
+- [Skript](https://github.com/iOS-Dev-Kurs/Skript/blob/master/dist/ios_dev_kurs_skript.pdf)
+- [App Katalog](https://github.com/iOS-Dev-Kurs/Skript/blob/master/dist/ios_dev_kurs_app_katalog.pdf)
 - [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 
 Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-Dev-Kurs/Skript](https://github.com/iOS-Dev-Kurs/Skript)
 
 ### Vorlesungen
 
-Die Vorlesungsthemen und zugehörige Materialen werden hier vor Vorlesungsbeginn zur Verfügung gestellt.
-
-1. *18.4.2016*
+1. *18.4.2016*: Hello World!
+	- Organisation, Einleitung in Swift, Workflow mit Git
+	- Übungsaufgabe: [_SimpleUI_](https://github.com/iOS-Dev-Kurs/SimpleUI)
 2. *25.4.2016*
 3. *2.5.2016*
 4. *9.5.2016*
