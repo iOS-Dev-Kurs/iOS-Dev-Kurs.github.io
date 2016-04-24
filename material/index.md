@@ -17,8 +17,14 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 
 1. *18.4.2016*: Hello World!
 	- Organisation, Einleitung in Swift, Workflow mit Git
-	- Übungsaufgabe: [_SimpleUI_](https://github.com/iOS-Dev-Kurs/SimpleUI)
-2. *25.4.2016*
+	- Übungsaufgaben:
+		- [SimpleUI](https://github.com/iOS-Dev-Kurs/SimpleUI)
+2. *25.4.2016*: A Swift Tour
+	- Klassen, Structs, Enums und Protokolle in Swift
+	- [Playground aus der Vorlesung](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/material/Vorlesung%2002%20-%20A%20Swift%20Tour.playground.zip)
+	- Übungsaufgaben:
+		- [Chatter](https://github.com/iOS-Dev-Kurs/chatter)
+		- [Poker](https://github.com/iOS-Dev-Kurs/poker)
 3. *2.5.2016*
 4. *9.5.2016*
 5. *23.5.2016*
