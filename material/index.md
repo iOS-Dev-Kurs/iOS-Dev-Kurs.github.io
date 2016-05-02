@@ -25,7 +25,11 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 	- Übungsaufgaben:
 		- [Chatter](https://github.com/iOS-Dev-Kurs/chatter)
 		- [Poker](https://github.com/iOS-Dev-Kurs/poker)
-3. *2.5.2016*
+3. *2.5.2016*: iOS App Architektur
+	- Vom minimal ausführbaren Code zur Architektur einer iOS App
+	- [Repository aus der Vorlesung](https://github.com/iOS-Dev-Kurs/bare)
+	- Übungsaufgaben:
+		- [Lifetime](https://github.com/iOS-Dev-Kurs/lifetime)
 4. *9.5.2016*
 5. *23.5.2016*
 6. *30.5.2016*
