@@ -18,19 +18,27 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 1. *18.4.2016*: Hello World!
 	- Organisation, Einleitung in Swift, Workflow mit Git
 	- Übungsaufgaben:
-		- [SimpleUI](https://github.com/iOS-Dev-Kurs/SimpleUI)
+		- [SimpleUI](https://github.com/ios-dev-kurs/simpleui)
 2. *25.4.2016*: A Swift Tour
 	- Klassen, Structs, Enums und Protokolle in Swift
-	- [Playground aus der Vorlesung](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/material/Vorlesung%2002%20-%20A%20Swift%20Tour.playground.zip)
+	- [Playground aus der Vorlesung](https://github.com/ios-dev-kurs/skript/raw/master/dist/material/Vorlesung%2002%20-%20A%20Swift%20Tour.playground.zip)
 	- Übungsaufgaben:
-		- [Chatter](https://github.com/iOS-Dev-Kurs/chatter)
-		- [Poker](https://github.com/iOS-Dev-Kurs/poker)
+		- [Chatter](https://github.com/ios-dev-kurs/chatter)
+		- [Poker](https://github.com/ios-dev-kurs/poker)
 3. *2.5.2016*: iOS App Architektur
 	- Vom minimal ausführbaren Code zur Architektur einer iOS App
 	- [Repository aus der Vorlesung](https://github.com/iOS-Dev-Kurs/bare)
 	- Übungsaufgaben:
-		- [Lifetime](https://github.com/iOS-Dev-Kurs/lifetime)
-4. *9.5.2016*
+		- [Lifetime](https://github.com/ios-dev-kurs/lifetime)
+4. *9.5.2016*: Seasonizer
+	- Architektur einer App mit Model, View und Controller
+	- Übungsaufgaben:
+		- [Seasonizer](https://github.com/ios-dev-kurs/seasonizer)
+	- Lösungen:
+		- [Fibonacci](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/02%20-%20Fibonacci.playground.zip)
+		- [Primzahlen](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/03%20-%20Primzahlen.playground.zip)
+		- [Poker](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/04%20-%20Poker.playground.zip)
+	- [Midterm Evaluation](http://goo.gl/forms/0lbmTXhQNw)
 5. *23.5.2016*
 6. *30.5.2016*
 7. *6.6.2016*
