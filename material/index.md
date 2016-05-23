@@ -39,7 +39,21 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 		- [Primzahlen](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/03%20-%20Primzahlen.playground.zip)
 		- [Poker](https://github.com/iOS-Dev-Kurs/Skript/raw/master/dist/exercises/04%20-%20Poker.playground.zip)
 	- [Midterm Evaluation](http://goo.gl/forms/0lbmTXhQNw)
-5. *23.5.2016*
+5. *23.5.2016*: Kommunikation mit einer REST API
+	- Schnittstellen in der Softwareentwicklung und in iOS
+	- Integration von Open-Source Frameworks
+	- Asynchrone Netzwerkanfragen an eine REST API
+	- Error Handling und Generics in Swift
+	- [Pokedex App aus der Vorlesung](https://github.com/iOS-Dev-Kurs/apiclient/tree/pokedex)
+	- Übungsaufgaben:
+		- [APIClient](https://github.com/iOS-Dev-Kurs/apiclient)
+	- [Einige interessante APIs](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/)
+	- [fuckingclosuresyntax.com](http://fuckingclosuresyntax.com) / [goshdarnclosuresyntax.com](http://goshdarnclosuresyntax.com)
+	- Verwendete Frameworks:
+		- [Moya](https://github.com/Moya/Moya): _Network abstraction layer written in Swift._
+		- [Freddy](https://github.com/bignerdranch/Freddy): _A reusable framework for parsing JSON in Swift._
+		- [Alamofire](https://github.com/Alamofire/Alamofire)/[AlamofireImage](https://github.com/Alamofire/AlamofireImage): _Elegant HTTP Networking in Swift_
+		- [AwesomeCache](https://github.com/aschuch/AwesomeCache): _Delightful on-disk cache (written in Swift)_
 6. *30.5.2016*
 7. *6.6.2016*
 8. *13.6.2016*
