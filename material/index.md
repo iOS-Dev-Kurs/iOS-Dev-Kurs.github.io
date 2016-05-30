@@ -54,7 +54,14 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 		- [Freddy](https://github.com/bignerdranch/Freddy): _A reusable framework for parsing JSON in Swift._
 		- [Alamofire](https://github.com/Alamofire/Alamofire)/[AlamofireImage](https://github.com/Alamofire/AlamofireImage): _Elegant HTTP Networking in Swift_
 		- [AwesomeCache](https://github.com/aschuch/AwesomeCache): _Delightful on-disk cache (written in Swift)_
-6. *30.5.2016*
+6. *30.5.2016*: Unit Tests
+	- Unit Tests in der Softwareentwicklung und in iOS
+	- UI Tests mit Xcode
+	- [Unit Tests aus der Vorlesung in der Pokedex App](https://github.com/iOS-Dev-Kurs/apiclient/tree/pokedex)
+	- Übungsaufgaben:
+		- [Unit Tests in der APIClient App](https://github.com/iOS-Dev-Kurs/apiclient)
+	- Verwendete Frameworks:
+		- [Nimble](https://github.com/Quick/Nimble): _A Matcher Framework for Swift and Objective-C_
 7. *6.6.2016*
 8. *13.6.2016*
 9. *20.6.2015*
