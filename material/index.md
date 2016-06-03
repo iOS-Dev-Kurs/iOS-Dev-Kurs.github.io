@@ -62,9 +62,17 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 		- [Unit Tests in der APIClient App](https://github.com/iOS-Dev-Kurs/apiclient)
 	- Verwendete Frameworks:
 		- [Nimble](https://github.com/Quick/Nimble): _A Matcher Framework for Swift and Objective-C_
-7. *6.6.2016*
-8. *13.6.2016*
-9. *20.6.2015*
+7. *6.6.2016*: Data Persistence
+	- Relationale Datenbanken in iOS: Core Data und [Realm](https://realm.io)
+	- User Defaults, State Preservation und Caches
+8. *13.6.2016*: Spieleentwicklung
+	- 2D und 3D Spiele in iOS mit SpriteKit und SceneKit
+	- [WWDC](https://developer.apple.com/wwdc/) Keynote Public Viewing: Die Zukunft von iOS und Swift
+9. *20.6.2015*: Ein bisschen Design, Marketing & Business
+	- Design & Konzeption von iOS Apps
+	- Veröffentlichung im iOS App Store
+	- Geschäftsmodelle, Marketing und Werbung
+	- AMA
 
 ## Materialien vergangener Semester
 
