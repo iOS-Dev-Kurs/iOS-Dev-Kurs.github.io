@@ -65,9 +65,11 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 7. *6.6.2016*: Data Persistence
 	- Relationale Datenbanken in iOS: Core Data und [Realm](https://realm.io)
 	- User Defaults, State Preservation und Caches
+	- Übungsaufgaben:
+		- [DataPersistence](https://github.com/ios-dev-kurs/datapersistence)
 8. *13.6.2016*: Spieleentwicklung
 	- 2D und 3D Spiele in iOS mit SpriteKit und SceneKit
-	- [WWDC](https://developer.apple.com/wwdc/) Keynote Public Viewing: Die Zukunft von iOS und Swift
+	- **19h:** [WWDC](https://developer.apple.com/wwdc/) Keynote Public Viewing: Die Zukunft von iOS und Swift
 9. *20.6.2015*: Ein bisschen Design, Marketing & Business
 	- Design & Konzeption von iOS Apps
 	- Veröffentlichung im iOS App Store
