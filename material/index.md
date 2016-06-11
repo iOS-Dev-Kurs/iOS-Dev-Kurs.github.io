@@ -69,6 +69,8 @@ Das Skript steht außerdem auf GitHub zur Verfügung: [https://github.com/iOS-De
 		- [DataPersistence](https://github.com/ios-dev-kurs/datapersistence)
 8. *13.6.2016*: Spieleentwicklung
 	- 2D und 3D Spiele in iOS mit SpriteKit und SceneKit
+	- Übungsaufgaben:
+		- [FlappySwift](https://github.com/iOS-Dev-Kurs/flappyswift)
 	- **19h:** [WWDC](https://developer.apple.com/wwdc/) Keynote Public Viewing: Die Zukunft von iOS und Swift
 9. *20.6.2015*: Ein bisschen Design, Marketing & Business
 	- Design & Konzeption von iOS Apps
