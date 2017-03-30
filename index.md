@@ -3,7 +3,7 @@ layout: default
 title: Allgemeine Informationen
 ---
 
-**Für die Veranstaltung der Vorlesung im Sommersemester 2016 ist eine Anmeldung erforderlich!**
+**Für den Blockkurs im Rahmen der [Studierendentage 2017](https://uebungen.physik.uni-heidelberg.de/vorlesung/20171/studierendentage) bitte in der [Übungsgruppenverwaltung](https://uebungen.physik.uni-heidelberg.de/vorlesung/20171/studierendentage) anmelden!**
 
 Die Vorlesung *Softwareentwicklung für iOS* gibt eine Einführung in die moderne Programmentwicklung mit einer Integrierten Entwicklungsumgebung (IDE), die objektorientierte Programmiersprache *[Swift](https://swift.org)* und die Programmierung von Benutzeroberflächen am Beispiel der iOS Plattform.
 
@@ -14,7 +14,7 @@ Diese Vorlesung kann alleine oder zusätzlich zu einem Programmierkurs gehört w
 
 ## Organisation
 
-- **Vorlesung:** **Montags, 16h c.t. bis 18h**, Beginn **18.4.2016**
+- **Vorlesung SS 2016:** **Montags, 16h c.t. bis 18h**, Beginn **18.4.2016**
 - **Ort:** Mac & PC Pool des URZ, INF 293, Raum 118
 - **Dozenten:** Nils Fischer (Student M.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
 - **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **[Anmeldung unter diesem Link](https://docs.google.com/forms/d/1AOIBd6E42JKvcZQWbhphE4QBmajtoOSqrEFP2HxPEIs/viewform)** erforderlich.
