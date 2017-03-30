@@ -14,22 +14,20 @@ Diese Vorlesung kann alleine oder zusätzlich zu einem Programmierkurs gehört w
 
 ## Organisation
 
-- **Vorlesung SS 2016:** **Montags, 16h c.t. bis 18h**, Beginn **18.4.2016**
-- **Ort:** Mac & PC Pool des URZ, INF 293, Raum 118
-- **Dozenten:** Nils Fischer (Student M.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de)), Prof. Dr. Peter Fischer (ZITI, [peter.fischer@ziti.uni-heidelberg.de](mailto:peter.fischer@ziti.uni-heidelberg.de))
-- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **[Anmeldung unter diesem Link](https://docs.google.com/forms/d/1AOIBd6E42JKvcZQWbhphE4QBmajtoOSqrEFP2HxPEIs/viewform)** erforderlich.
-- **Leistungspunkte:** Bei regelmäßiger Teilnahme und Mitarbeit in den Übungen werden in der Physik **2 ECTS Punkte (ÜK)** vergeben. Eine Anrechnung in anderen Studiengängen ist nach Absprache ebenfalls möglich.
-- **Vorkenntnisse:** Programmierkenntnisse sind hilfreich aber nicht unbedingt erforderlich.
-- **Hardware Vorraussetzungen:**
+- **Blockkurs während der Studierendentage 2017:** **10.4. bis 13.4.2017, 9-13h**
+- **Ort:** INF 227, SR 1.404
+- **Dozent:** Nils Leif Fischer (Student M.Sc. Physik, [n.fischer@stud.uni-heidelberg.de](mailto:n.fischer@stud.uni-heidelberg.de))
+- **Anmeldung:** Da die Teilnehmerzahl begrenzt ist, ist eine **[Anmeldung unter diesem Link](https://uebungen.physik.uni-heidelberg.de/vorlesung/20171/studierendentage)** erforderlich.
+- **Leistungspunkte:** Für die Teilnahme an den Studierendentagen 2017 wird **1 ECTS Punkt** vergeben.
+- **Vorkenntnisse:** Programmierkenntnisse sind hilfreich aber nicht erforderlich.
+- **Hardware Vorraussetzungen:** Eigener Mac mit Xcode 8.2 oder neuer installiert ([kostenlos im Mac App Store](https://itunes.apple.com/de/app/xcode/id497799835?mt=12))
 
-	Um die Übungen durchführen zu können, wird ein Mac benötigt, auf dem die (kostenlose) Entwicklungsumgebung *[Xcode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12)* installiert ist. Im URZ stehen einige Macs für diejenigen Teilnehmer zur Verfügung, die keinen eigenen Mac mitbringen können. Allen anderen wird jedoch empfohlen, mit ihren eigenen Macs zu arbeiten.
-
-	Alle Apps können auf dem integrierten Simulator getestet werden. Wer ein eigenes iOS Gerät (iPhone, iPad oder iPod Touch) besitzt, kann die Apps auch auf dem Gerät testen.
+	Alle Apps können auf dem integrierten Simulator getestet werden. Wer ein eigenes iOS Gerät besitzt kann die Apps auch auf dem Gerät testen.
 
 	Führt vor Beginn des Kurses ein Softwareupdate auf die aktuellste Version von Mac OS X, Xcode und iOS auf euren Geräten durch.
 
 
-## Details zum Kurs
+## Details zum Kurs (SS 2016)
 
 Diese Vorlesung ist für alle geeignet, die nicht nur eine Programmiersprache, sondern auch eine moderne Vorgehensweise bei der Programmierung lernen wollen. Die iOS Plattform bietet sich hier als spannende und vielseitige Möglichkeit an, eigene Programme zu entwickeln.
 
